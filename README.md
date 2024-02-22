@@ -11,7 +11,7 @@ Now, the tasks. Solving them using MS-excel:
 **A. Hiring Analysis:** The hiring process involves bringing new individuals into the organization for various roles.  
 *Your Task: Determine the gender distribution of hires. How many males and females have been hired by the company?*
 
-**B. Salary Analysis:** The average salary is calculated by adding up the salaries of a group of employees and then dividing the total by the number of employees.*  
+**B. Salary Analysis:** The average salary is calculated by adding up the salaries of a group of employees and then dividing the total by the number of employees.  
 *Your Task: What is the average salary offered by this company? Use Excel functions to calculate this.*
 
 **C. Salary Distribution:** Class intervals represent ranges of values, in this case, salary ranges. The class interval is the difference between the upper and lower limits of a class.  
